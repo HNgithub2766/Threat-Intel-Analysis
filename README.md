@@ -1,2 +1,2 @@
-# Cybersecurity-portfolio
-This repository contains study notes, projects and a progress report of tasks I've completed in order to gain knowledge and skills in Cyber Security operations.
+# Threat-Intel-Analysis
+This repository contains my work while at Telstra where I profiled and analysed APT against Telstra and other critical infrastructure in Australia.
