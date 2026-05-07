@@ -1,2 +1,2 @@
 # Threat-Intel-Analysis
-This repository contains my work while at Telstra where I profiled and analysed APT against Telstra and other critical infrastructure in Australia.
+This repository contains my work completed during my time at Telstra, where I profiled and analysed APT (Advanced Persistent Threat) activity targeting Telstra and other critical infrastructure within Australia.
